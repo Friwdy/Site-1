@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Danki Code para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Site test 1" src=".github/preview.jpg" width="100%">
+  <img alt="Site test 1" src=".github/preview.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
